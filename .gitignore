@@ -1,0 +1,7 @@
+raw/
+dist/
+node_modules/
+.env.local/
+*.log/
+build/
+clean/
